@@ -2,4 +2,4 @@
 
 StefBot es un bot o chatbot que brinda información acerca de la ansiedad, así como distintos pasos que una persona puede seguir para disminuir la ansiedad, estrés o depresión. También aplica para problemas como el estrés y depresión.
 
-Bebe : :coffee: y :dancer:.
+Bebe : :coffee: y :dancer:
