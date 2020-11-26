@@ -1,4 +1,5 @@
 # StefBot
+
 Bebe : :coffee: y :dancer:.
 
-StefBot es un chatbot dirigido a estudiantes de la Facultad de Matemáticas, de entre 18 - 28 años de edad, que sufren problemas de ansiedad, estrés o depresión.
+StefBot es un bot o chatbot que brinda información acerca de la ansiedad, así como distintos pasos que una persona puede seguir para disminuir la ansiedad, estrés o depresión. También aplica para problemas como el estrés y depresión.
