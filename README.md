@@ -33,3 +33,9 @@
 ° [Herramientas e investigación](https://github.com/Fismael18/StefBot/blob/main/Documentos/Herramientas%20e%20investigaci%C3%B3n.md)
 
 ° [Roles y procesos (Scrum)](https://github.com/Fismael18/StefBot/blob/main/Documentos/Roles%20y%20procesos%20(Scrum).md)
+
+° [Organización del equipo](https://github.com/Fismael18/StefBot/tree/main/Documentos)
+
+° [Competencias de la asignatura](https://github.com/Fismael18/StefBot/blob/main/Documentos/Competencias%20de%20la%20asignatura.md)
+
+° [Bitácoras](https://github.com/Fismael18/StefBot/blob/main/Documentos/Bit%C3%A1coras.md)
