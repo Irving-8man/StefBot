@@ -18,7 +18,7 @@
 
 **Development Team**: Irvin Geyler Cupul Uc - [Irvin-8man](https://github.com/Irving-8man)
 
-**Development Team**: Javier Arturo Rangel Abelar
+**Development Team**: Javier Arturo Rangel Abelar - [ArturoRangel](https://github.com/ArturoRangel)
 
 # ÍNDICE
 
