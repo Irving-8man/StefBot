@@ -8,7 +8,7 @@
 
 # ¿A quién va dirigido?
 
-**StefBot** está dirigido a estudiantes universitarios de entre 18 y 28 años de edad que sufren de ansiedad, estrés o depresión.
+**StefBot** está dirigido a estudiantes universitarios de la FMAT de entre 18 y 28 años de edad que sufren de ansiedad, estrés o depresión.
 
 # Roles (Scrum)
 
