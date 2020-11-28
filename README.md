@@ -1,6 +1,6 @@
 # StefBot
 
-![StefBot GitHub](https://user-images.githubusercontent.com/73042685/100517861-88acba80-3153-11eb-8b2f-026f2c862181.jpg)
+![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/01.png)
 
 # ¿Qué es StefBot?
 
