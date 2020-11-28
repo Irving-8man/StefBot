@@ -21,3 +21,5 @@
 **Development Team**: Javier Arturo Rangel Abelar
 
 # ÍNDICE
+
+° [Metas](https://github.com/Fismael18/StefBot/blob/main/Documentos/Metas.md)
