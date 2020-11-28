@@ -2,7 +2,7 @@
 
 ![StefBot GitHub](https://user-images.githubusercontent.com/73042685/100517861-88acba80-3153-11eb-8b2f-026f2c862181.jpg)
 
-# ¿Qué es?
+# ¿Qué es StefBot?
 
 **StefBot** es un bot, específicamente un chatbot que brinda información acerca de la ansiedad, estrés o depresión, así como distintos pasos que una persona puede seguir para disminuir estos problemas. 
 
@@ -12,9 +12,9 @@
 
 # Roles (Scrum)
 
-**Product Owner/ Development Team**: Fernando Ismael Canul Caballero
+**Product Owner/ Development Team**: Fernando Ismael Canul Caballero (@Fismael18)
 
-**Scrum Master/ Development Team**: Domingo Emmanuel Ciau Uc
+**Scrum Master/ Development Team**: Domingo Emmanuel Ciau Uc (@Domingo Ciau)
 
 **Development Team**: Irvin Geyler Cupul Uc
 
