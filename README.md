@@ -10,7 +10,7 @@
 
 **StefBot** está dirigido a estudiantes universitarios de la FMAT de entre 18 y 28 años de edad que sufren de ansiedad, estrés o depresión.
 
-# ÍNDICE
+# Índice
 
 ° [Metas](https://github.com/Fismael18/StefBot/blob/main/Documentos/Metas.md)
 
