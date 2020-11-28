@@ -10,16 +10,6 @@
 
 **StefBot** está dirigido a estudiantes universitarios de la FMAT de entre 18 y 28 años de edad que sufren de ansiedad, estrés o depresión.
 
-# Roles (Scrum)
-
-**Product Owner/ Development Team**: Fernando Ismael Canul Caballero - [Fismael18](https://github.com/Fismael18)
-
-**Scrum Master/ Development Team**: Domingo Emmanuel Ciau Uc - [Domingo Ciau](https://github.com/DomingoCiau)
-
-**Development Team**: Irvin Geyler Cupul Uc - [Irvin-8man](https://github.com/Irving-8man)
-
-**Development Team**: Javier Arturo Rangel Abelar - [ArturoRangel](https://github.com/ArturoRangel)
-
 # ÍNDICE
 
 ° [Metas](https://github.com/Fismael18/StefBot/blob/main/Documentos/Metas.md)
@@ -39,3 +29,13 @@
 ° [Competencias de la asignatura](https://github.com/Fismael18/StefBot/blob/main/Documentos/Competencias%20de%20la%20asignatura.md)
 
 ° [Bitácoras](https://github.com/Fismael18/StefBot/blob/main/Documentos/Bit%C3%A1coras.md)
+
+# Roles (Scrum)
+
+**Product Owner/ Development Team**: Fernando Ismael Canul Caballero - [Fismael18](https://github.com/Fismael18)
+
+**Scrum Master/ Development Team**: Domingo Emmanuel Ciau Uc - [Domingo Ciau](https://github.com/DomingoCiau)
+
+**Development Team**: Irvin Geyler Cupul Uc - [Irvin-8man](https://github.com/Irving-8man)
+
+**Development Team**: Javier Arturo Rangel Abelar - [ArturoRangel](https://github.com/ArturoRangel)
