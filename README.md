@@ -27,3 +27,9 @@
 ° [Usuarios y clientes](https://github.com/Fismael18/StefBot/blob/main/Documentos/Usuarios%20y%20clientes.md)
 
 ° [Requerimientos](https://github.com/Fismael18/StefBot/blob/main/Documentos/Requerimientos.md)
+
+° [Casos de uso](https://github.com/Fismael18/StefBot/blob/main/Documentos/Casos%20de%20uso.md)
+
+° [Herramientas e investigación](https://github.com/Fismael18/StefBot/blob/main/Documentos/Herramientas%20e%20investigaci%C3%B3n.md)
+
+° [Roles y procesos (Scrum)](https://github.com/Fismael18/StefBot/blob/main/Documentos/Roles%20y%20procesos%20(Scrum).md)
