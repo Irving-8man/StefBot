@@ -6,4 +6,4 @@
 
 **Meta de StefBot**: Ser una herramienta de ayuda o apoyo para aquellos estudiantes que sufran ansiedad, estrés o depresión. Entablando conversaciones y brindando información que puedan ayudar a disminuir o eliminar dichos problemas.
 
-**Creatividad e Innovación**: Contará con frases y expresiones que usan los jóvenes hoy en día, de esa manera el usuario o cliente se sentirá en confianza. Podrá dar múltiples opiniones e ideas que el usuario y/o cliente podría realizar en su propio ordenador de escritorio, portátil y/o móvil.
+**Creatividad e Innovación**: Contará con frases y expresiones que usan los jóvenes hoy en día, de esa manera el usuario o cliente se sentirá en confianza. Dará múltiples opiniones e ideas que el usuario y/o cliente podrá realizar en su propio ordenador de escritorio, portátil y/o móvil.
