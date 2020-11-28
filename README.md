@@ -12,11 +12,11 @@
 
 # Roles (Scrum)
 
-**Product Owner/ Development Team**: Fernando Ismael Canul Caballero 
+**Product Owner/ Development Team**: Fernando Ismael Canul Caballero - [Fismael18](https://github.com/Fismael18)
 
-**Scrum Master/ Development Team**: Domingo Emmanuel Ciau Uc
+**Scrum Master/ Development Team**: Domingo Emmanuel Ciau Uc - [Domingo Ciau](https://github.com/DomingoCiau)
 
-**Development Team**: Irvin Geyler Cupul Uc
+**Development Team**: Irvin Geyler Cupul Uc - [Irvin-8man](https://github.com/Irving-8man)
 
 **Development Team**: Javier Arturo Rangel Abelar
 
