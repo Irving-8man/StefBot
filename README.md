@@ -25,3 +25,5 @@
 ° [Metas](https://github.com/Fismael18/StefBot/blob/main/Documentos/Metas.md)
 
 ° [Usuarios y clientes](https://github.com/Fismael18/StefBot/blob/main/Documentos/Usuarios%20y%20clientes.md)
+
+° [Requerimientos](https://github.com/Fismael18/StefBot/blob/main/Documentos/Requerimientos.md)
