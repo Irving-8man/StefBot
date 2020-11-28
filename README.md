@@ -1,6 +1,6 @@
 # StefBot
 
-![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/01.png)
+![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/StefBot%20GitHub.jpg)
 
 # ¿Qué es StefBot?
 
