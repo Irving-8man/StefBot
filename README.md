@@ -4,6 +4,8 @@
 
 # ¿Qué es StefBot?
 
+![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/05.jpg)
+
 **StefBot** es un bot, específicamente un chatbot que brinda información acerca de la ansiedad, estrés o depresión, así como distintos pasos que una persona puede seguir para disminuir estos problemas. 
 
 # ¿A quién va dirigido?
