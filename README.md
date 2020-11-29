@@ -22,6 +22,8 @@
 
 ° [Requerimientos](https://github.com/Fismael18/StefBot/blob/main/Documentos/Requerimientos.md)
 
+° [Lista de encuestas](https://github.com/Fismael18/StefBot/blob/main/Documentos/Encuestas.md)
+
 ° [Casos de uso](https://github.com/Fismael18/StefBot/blob/main/Documentos/Casos%20de%20uso.md)
 
 ° [Herramientas e investigación](https://github.com/Fismael18/StefBot/blob/main/Documentos/Herramientas%20e%20investigaci%C3%B3n.md)
