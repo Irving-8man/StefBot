@@ -2,6 +2,8 @@
 
 ![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/08.jpg) 
 
+Para conocer a nuestros usuarios y/o clientes se realizaron las siguientes [encuestas](https://github.com/Fismael18/StefBot/blob/main/Documentos/Encuestas.md).
+
 # Usuarios
 
 **Usuarios**:
