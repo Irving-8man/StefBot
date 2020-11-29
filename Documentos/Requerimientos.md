@@ -1,5 +1,7 @@
 # Requerimientos
 
+![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/10.jpg)
+
 Basados en las encuestas que se hicieron, se definieron los siguientes requerimientos.
 
 # Requerimientos del usuario/cliente
