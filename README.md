@@ -35,6 +35,7 @@
 ° [Bitácoras](https://github.com/Fismael18/StefBot/blob/main/Documentos/Bit%C3%A1coras.md)
 
 # Roles (Scrum)
+![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/06.jpg)
 
 **Product Owner/ Development Team**: Fernando Ismael Canul Caballero - [Fismael18](https://github.com/Fismael18)
 
