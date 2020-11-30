@@ -53,3 +53,5 @@ Posterior a la entrega, se realizará una junta de equipo para evaluar el proces
 # Calendarización
 
 Las fechas establecidas podrían sufrir algunos cambios por razones que no podríamos predecir, así como también por ciertos cambios que pudieran darse con las entregas de los avances del proyecto.
+
+![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/Trello%2001.jpg)
