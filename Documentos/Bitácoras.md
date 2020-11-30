@@ -8,6 +8,15 @@
 
 *6:00 p.m. - 7:00 p.m.*
 
+**Primera reunión del equipo SteBot.** En esta reunión se habló por primera vez sobre el proyecto y se establecieron las metas generales y las metas del chatbot. El intercambio de ideas fue eficaz y rápido. De la misma manera, compartimos distintos enlaces y vídeos entre nosotros para aprender a usar GitHub. También se creó un documento word en la nube de Google Drive para ir redactando los avances el proyecto. Por último, se establecieron Microsoft Teams y Whatsapp como medios de comunicación y organización del equipo.
+
+**Tareas**
+
+Establecer la herramienta más adecuada para crear el chatbot.
+
+Crear una página de Facebook con el nombre de StefBot.
+
+
 **Participantes**
 
 ° Fernando Ismael Canul Caballero
@@ -23,6 +32,14 @@
 **4 de noviembre del 2020**
 
 *6:00 p.m. - 7:00 p.m.*
+
+**Segunda reunión del equipo StefBot.** En esta reunión se habló sobre las funcionalidades que tendrá el chatbot y los requerimientos tanto del usuario como los del producto (funcionales y no funcionales). Posteriormente, se siguió debatiendo sobre cual herramienta para crear el chatbot deberíamos de usar. También se habló sobre distintas páginas que se podrían usar para editar imágenes, etc. Por último, se estableció que el rango de edad de los usuarios debe ser de 18 a 28 años de edad.
+
+**Tareas**
+
+EStablecer la herramienta más adecuada para crear el chatbot.
+
+Investigar sobre la ansiedad, estrés y depresión.
 
 **Participantes**
 
