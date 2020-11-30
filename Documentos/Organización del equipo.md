@@ -6,75 +6,75 @@ Se les asignaron distintas tareas a los integrantes del equipo StefBot. Cada tar
 
 **Metas**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
 **Usuarios y/o clientes**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
 **Innovación y creatividad**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero
 
 **Requerimientos del usuario**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero, Irving Geyler Cupul Uc.
 
 **Requerimientos del producto (funcionales y no funcionales)**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero, Irving Geyler Cupul Uc.
 
 **Método de prioridad**
 
-**Responsable(s)**:
+**Responsable(s)**: Domingo Emmanuel Ciau Uc
 
 **Diagrama de casos de uso**
 
-**Responsable(s)**:
+**Responsable(s)**: Domingo Emmanuel Ciau Uc.
 
 **Proceso de desarrollo**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballer, Domingo Emmanuel Ciau Uc.
 
-**Descripción de las herramientas**
+**Descripción de las herramientas** 
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
 **Bitácoras**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
 **Control de calidad**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
 **Revisión y corrección del repositorio**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero
 
 **Métrica de contribución individual**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
 **Documento de contribuciones**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
 **Presentación del avance**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
 **Exposición de la investigación**
 
-**Responsable(s)**:
+**Responsable(s)**: Fernando Ismael Canul Caballero, Javier Arturo Rangel Abilar.
 
 **Competencias generales y específicas**
 
-**Responsable(s)**:
+**Responsable(s)**: Javier Arturo Rangel Abilar.
 
 **Artefactos**
 
-**Responsable(s)**:
+**Responsable(s)**: Dommingo Emmanuel Ciau Uc.
 
 # Contribución (100 es el máximo)
 
