@@ -1,38 +1,38 @@
 # Casos de uso
 
-**caso 1: la solucion funciona**
+**caso 1: la solución funciona**
 
-### **el bot entiende el caso**
+### **el Bot entiende el caso**
 
-1. El usuario(a) haga contacto con el bot 
-2. EL bot le saluda
-3. el bot pregunta por sus gustos
-4. el bot le hace preguntas para determinar el caso del usuario
+1. El usuario(a) haga contacto con el Bot 
+2. EL Bot le saluda
+3. el Bot pregunta por sus gustos
+4. el Bot le hace preguntas para determinar el caso del usuario
 
-    * Estres
+    * Estrés
 
-    - Depresion
+    - Depresión
 
     * Ansiedad
 
-5. Identificacion del problema(bot)
-6. Tomar en cuenta sus gustos y ofreser una posible solucion(Bot)
-7. Preguntar si la solucion le funciono(Bot)
-8. El bot se despide
+5. Identificación del problema (Bot)
+6. Tomar en cuenta sus gustos y ofreser una posible solución (Bot)
+7. Preguntar si la solución le funciono (Bot)
+8. El Bot se despide
 ---
-### **caso 2: la solucion no funciona**
+### **caso 2: la solución no funciona**
 Los pasos se siguen de manera identica hasta el paso 7, si el Bot no resolvio el problema se hara lo sigiente.
 
 8. Preguntar si el usuario tenga alguna otra herramienta para solucionar el problema.
-9. El usario respondera.
-10. El bot tomara en cuenta la solucion para futuros problemas
+9. El usuario responderá.
+10. El Bot tomara en cuenta la solución para futuros problemas
 ---
 
-### **caso 3: el bot no encuentra el problema**
+### **caso 3: el Bot no encuentra el problema**
 Los pasos se realisaran de igual forma hasta el 5 que sera la identificasion del problema, en caso de que el Bot no tenga una deduccion de cual problema se trata este hara lo siguiente:
 
 6. El bot comensara a dar una serie de posibles sintomas los cuales el pueda comprender.
-7. El usuario respondera de acuerdo a como el Bot le dice.
+7. El usuario responderá de acuerdo a como el Bot le dice.
 8. Con estas ruspuestas pre insertadas el Bot podra llegar auno de los tres problemas.
 
 Una ves el Bot haya identificado el problema los pasos se segiran de manera similar dependiendo de cual de los dos primeros casos se trate.
