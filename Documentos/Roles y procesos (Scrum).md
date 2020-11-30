@@ -22,9 +22,7 @@ Los requerimientos del usuario y del producto (funcionales y no funcionales) se 
 
 • **Javier Arturo Rangel Abelar: Development Team**
 
-Las tareas fueron organizadas y clasificadas con un nivel de dificultad diferente, y se le otorgó su parte a cada miembro. Se trató que la difícultad de las tareas de cada miembro estuviera lo más valanciada posible. 
-
-Con el fin llevar un control de las tareas y las fechas de limites de cada una, se utilizó la aplicación Trello. Una aplicación donde se les asignan tareas a cada estudiante, y se nombra al responsable de cada una ellas junto con un color distinto al de los demás. Por último, se iban cambiando de columnas las tareas (lista de tareas, proceso de tareas, revisión de tareas, verificados o hechos) dependiendo del estado de éstas.
+Las tareas fueron organizadas y clasificadas según su nivel de dificultad, y se le otorgó su parte a cada miembro. Se trató que la difícultad de las tareas de cada miembro estuviera lo más valanciada posible con respecto al de los otros integrantes. 
 
 **Sprints**
 
