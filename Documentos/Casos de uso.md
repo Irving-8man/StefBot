@@ -1,5 +1,6 @@
 # Casos de uso
 
+<<<<<<< HEAD
 **caso 1: la solución funciona**
 
 ### **el Bot entiende el caso**
@@ -38,3 +39,6 @@ Los pasos se realisaran de igual forma hasta el 5 que sera la identificasion del
 Una ves el Bot haya identificado el problema los pasos se segiran de manera similar dependiendo de cual de los dos primeros casos se trate.
 
 ![imagen](\Imagenes_StefBot\caso_de_uso.jpeg "...")
+=======
+![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/16.jpg)
+>>>>>>> 0028148b428ac1fadcccf96c4a2462015488fbaf

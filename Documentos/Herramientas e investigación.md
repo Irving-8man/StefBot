@@ -1,4 +1,5 @@
 # Herramientas e investigación
+<<<<<<< HEAD
 
 ## Comunicación, gestion o desarollo, edición y obtención de información
 
@@ -31,3 +32,6 @@ Por medio de estas se obtubo toda la informacion ya sea para la aplicacion de un
 * YouTube
 * Google Drive (formularios)
 ---
+=======
+![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/11.jpg)
+>>>>>>> 0028148b428ac1fadcccf96c4a2462015488fbaf
