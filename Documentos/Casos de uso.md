@@ -48,7 +48,7 @@
 
 8. Con estas ruspuestas pre insertadas el Bot podra llegar auno de los tres problemas.
 
-Una vez que StefBot haya identificado el problema, los pasos se seguiran de una manera similar dependiendo de cual de los dos primeros casos se trate.
+#### Una vez que StefBot haya identificado el problema, los pasos se seguiran de una manera similar dependiendo de cual de los dos primeros casos se trate.
 =======
 ![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/16.jpg)
 
