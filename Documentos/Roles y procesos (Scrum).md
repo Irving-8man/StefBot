@@ -56,14 +56,14 @@ Las fechas establecidas podrían sufrir algunos cambios por razones que no podr�
 
 **Colores por actividad**
 
-*Amarillo: Planeación*
+*Amarillo:* Planeación
 
-*Naranja: Recopilación de datos*
+*Naranja:* Recopilación de datos
 
-*Verde: Sprint*
+*Verde:* Sprint
 
-*Morado: Revisión interna*
+*Morado:* Revisión interna
 
-*Azul: Entrega del Sprint:
+*Azul:* Entrega del Sprint
 
-*Azul fuerte: Feedback*
+*Azul fuerte:* Feedback
