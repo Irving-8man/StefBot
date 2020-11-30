@@ -16,7 +16,7 @@
 
 # Bitácora 04
 
-**16 de noviembre del 2020**
+**13 de noviembre del 2020**
 
 # Bitácora 05
 
@@ -33,3 +33,5 @@
 # Bitácora 08
 
 **29 de noviembre del 2020**
+
+9:00 a.m - 10:00 a.m
