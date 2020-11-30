@@ -1,5 +1,4 @@
 # Herramientas e investigación
-<<<<<<< HEAD
 
 ## Comunicación, gestion o desarollo, edición y obtención de información
 
@@ -18,6 +17,7 @@ Estas herramientas seran las utilisadas para el desarollo de el **StefBot**, est
 * Facebook
 * Chatfuel
 * GitHub
+* Trello
 ---
 ### Edición
 Estas herramientas las utilisamos para la creasion del logo del StefBot asi como para editar todas y cada una de las imagenes aqui presentes asi tambien para la fabricacion de los diagramas.
@@ -34,4 +34,4 @@ Por medio de estas se obtubo toda la informacion ya sea para la aplicacion de un
 ---
 =======
 ![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/11.jpg)
->>>>>>> 0028148b428ac1fadcccf96c4a2462015488fbaf
+
