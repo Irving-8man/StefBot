@@ -22,7 +22,7 @@ Los requerimientos del usuario y del producto (funcionales y no funcionales) se 
 
 • **Javier Arturo Rangel Abelar: Development Team**
 
-Las tareas fueron organizadas y clasificadas según su nivel de dificultad, y se le otorgó su parte a cada miembro. Se trató que la difícultad de las tareas de cada miembro estuviera lo más valanciada posible con respecto al de los otros integrantes. 
+Las tareas fueron organizadas y clasificadas según su nivel de dificultad, y se le otorgó su parte a cada miembro. Se trató que la difícultad de las tareas de cada miembro estuviera lo más valanciada posible con respecto al de los otros integrantes. Ver [organización del equipo](https://github.com/Fismael18/StefBot/blob/main/Documentos/Organizaci%C3%B3n%20del%20equipo.md) para más información.
 
 **Sprints**
 
