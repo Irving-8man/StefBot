@@ -48,7 +48,7 @@ Se les asignaron distintas tareas a los integrantes del equipo StefBot. Cada tar
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
-**Revisión y corrección del repositorio** **High**
+**Revisión y corrección del repositorio:** **High**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero
 
