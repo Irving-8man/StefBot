@@ -34,7 +34,7 @@ Se les asignaron distintas tareas a los integrantes del equipo StefBot. Cada tar
 
 **Proceso de desarrollo**
 
-**Responsable(s)**: Fernando Ismael Canul Caballer, Domingo Emmanuel Ciau Uc.
+**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
 **Descripción de las herramientas** 
 
