@@ -30,7 +30,7 @@ Se les asignaron distintas tareas a los integrantes del equipo StefBot. Cada tar
 
 **Requerimientos del producto (funcionales y no funcionales):** **High**
 
-**Responsable(s)**:Irving Geyler Cupul Uc.
+**Responsable(s)**: Irving Geyler Cupul Uc.
 
 **Puntuación:** 15 puntos
 
