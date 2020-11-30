@@ -6,13 +6,13 @@ Se les asignaron distintas tareas a los integrantes del equipo StefBot. Cada tar
 
 **Metas:** **Low**
 
-**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
+**Responsable(s)**: Fernando Canul, Domingo Ciau.
 
 **Puntuación:** 10 y 10 puntos respectivamente.
 
 **Usuarios y/o clientes:** **Medium**
 
-**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
+**Responsable(s)**: Fernando Canul, Domingo Ciau.
 
 **Puntuación:** 15 puntos y 15 puntos respectivamente.
 
@@ -36,7 +36,7 @@ Se les asignaron distintas tareas a los integrantes del equipo StefBot. Cada tar
 
 **Método de prioridad:** **Medium**
 
-**Responsable(s)**: Domingo Emmanuel Ciau Uc
+**Responsable(s)**: Fernando Canul, Domingo Emmanuel Ciau Uc
 
 **Puntuación:** 10 puntos
 
@@ -56,41 +56,41 @@ Se les asignaron distintas tareas a los integrantes del equipo StefBot. Cada tar
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
-**Puntuación:** 15 puntos y 15 puntos respectivamente.
+**Puntuación:** 10 puntos y 10 puntos respectivamente.
 
 **Bitácoras:** **Medium**
 
-**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
+**Responsable(s)**: Fernando Ismael Canul Caballero, Javier Geyler.
 
 **Puntuación:** 10 puntos y 10 puntos respectivamente.
 
 **Control de calidad:** **Medium**
 
-**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
+**Responsable(s)**: Irving, Javier.
 
 **Puntuación:** 10 puntos y 10 puntos respectivamente.
 
 **Revisión y corrección del repositorio:** **High**
 
-**Responsable(s)**: Fernando Ismael Canul Caballero
+**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo
 
-**Puntuación:** 15 puntos.
+**Puntuación:** 15 puntos y 15 puntos respectivamente.
 
 **Métrica de contribución individual:** **Medium**
 
-**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
+**Responsable(s)**: Irving, Javier.
 
 **Puntuación:** 10 puntos y 10 puntos respectivamente.
 
 **Documento de contribuciones:** **Medium**
 
-**Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
+**Responsable(s)**: Irving, Javier.
 
 **Puntuación:** 10 puntos y 10 puntos respectivamente.
 
 **Presentación del avance:** **Medium**
 
-**Responsable(s)**: Javier Arturo Rangel Abilar, Domingo Emmanuel Ciau Uc.
+**Responsable(s)**: Irving, Javier Arturo Rangel Abilar.
 
 **Puntuación:** 10 puntos y 10 puntos respectivamente.
 
@@ -104,20 +104,20 @@ Se les asignaron distintas tareas a los integrantes del equipo StefBot. Cada tar
 
 **Responsable(s)**: Javier Arturo Rangel Abilar.
 
-**Puntuación:** 15 puntos
+**Puntuación:** 10 puntos
 
 **Artefactos:** **Medium**
 
-**Responsable(s)**: Dommingo Emmanuel Ciau Uc.
+**Responsable(s)**: Dommingo Emmanuel Ciau Uc, Irving.
 
-**Puntuación:** 10 puntos.
+**Puntuación:** 10 puntos y 10 puntos respectivamente.
 
 # Contribución (100 es el máximo)
 
-**Fernando Ismael Canul Caballero: 100**
+**Fernando Ismael Canul Caballero: 95**
 
 **Domingo Emmanuel Ciau Uc: 95**
 
-**Irving Geyler Cupul Uc: 95**
+**Irving Geyler Cupul Uc: 90**
 
 **Javier Arturo Rangel Abelar: 85**
