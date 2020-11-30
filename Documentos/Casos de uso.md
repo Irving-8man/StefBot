@@ -30,7 +30,7 @@
 
 # Caso 2: La solución no funciona
 
-Los pasos se siguen de manera identica hasta el paso 7, si el Bot no resolvio el problema se hara lo sigiente.
+**Los pasos se siguen de manera identica hasta el paso siete. Si el Bot no resolvió el problema, se hara lo sigiente.**
 
 8. Preguntar si el usuario tenga alguna otra herramienta para solucionar el problema.
 
@@ -40,7 +40,7 @@ Los pasos se siguen de manera identica hasta el paso 7, si el Bot no resolvio el
 
 # Caso 3: StefBot no encuentra el problema
 
-Los pasos se realisaran de igual forma hasta el 5 que sera la identificasion del problema, en caso de que el Bot no tenga una deduccion de cual problema se trata este hara lo siguiente:
+**Los pasos se realizan de igual forma hasta el paso cinco, que sera la identificación del problema. En caso de que el chatbot no lo logré, hara lo siguiente:**
 
 6. El bot comensara a dar una serie de posibles sintomas los cuales el pueda comprender.
 
