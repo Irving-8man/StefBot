@@ -14,11 +14,11 @@
 
 4. El chatbot hace preguntas para determinar el caso del usuario.
 
-    * Estrés
+° Ansiedad
 
-    - Depresión
+° Estrés
 
-    * Ansiedad
+° Depresión
 
 5. Identificación del problema (Bot)
 
@@ -26,7 +26,7 @@
 
 7. Preguntar si la solución le funciono (Bot)
 
-8. El Bot se despide
+8. El chatbot se despide
 
 # Caso 2: La solución no funciona
 
