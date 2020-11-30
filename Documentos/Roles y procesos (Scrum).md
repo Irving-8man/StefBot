@@ -54,17 +54,17 @@ Las fechas establecidas podrían sufrir algunos cambios por razones que no podr�
 
 **Colores por actividad**
 
-*Amarillo:* Planeación
+**Yellow:** Planeación
 
-*Naranja:* Recopilación de datos
+**Orange:** Recopilación de datos
 
-*Verde:* Sprint
+**Green:** Sprint
 
-*Morado:* Revisión interna
+**Purple:** Revisión interna
 
-*Azul:* Entrega del Sprint
+**Blue:** Entrega del Sprint
 
-*Azul fuerte:* Feedback
+**Dark Blue:** Feedback
 
 ![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/Cal%2001.jpg)
 
