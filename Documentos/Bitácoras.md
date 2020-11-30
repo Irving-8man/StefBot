@@ -4,7 +4,7 @@
 
 # Bitácora 01
 
-**28 de octubre del 2020**
+**2 de noviembre del 2020**
 
 *6:00 p.m. - 7:00 p.m.*
 
