@@ -67,3 +67,9 @@ Las fechas establecidas podr√≠an sufrir algunos cambios por razones que no podr√
 *Azul:* Entrega del Sprint
 
 *Azul fuerte:* Feedback
+
+![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/Cal%2001.jpg)
+
+![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/Cal%2002.jpg)
+
+![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/Cal%2003.jpg)
