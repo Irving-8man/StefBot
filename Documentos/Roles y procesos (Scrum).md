@@ -54,4 +54,16 @@ Posterior a la entrega, se realizará una junta de equipo para evaluar el proces
 
 Las fechas establecidas podrían sufrir algunos cambios por razones que no podríamos predecir, así como también por ciertos cambios que pudieran darse con las entregas de los avances del proyecto.
 
-![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/Trello%2001.jpg)
+**Colores por actividad**
+
+*Amarillo: Planeación*
+
+*Naranja: Recopilación de datos*
+
+*Verde: Sprint*
+
+*Morado: Revisión interna*
+
+*Azul: Entrega del Sprint:
+
+*Azul fuerte: Feedback*
