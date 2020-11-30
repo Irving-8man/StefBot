@@ -4,75 +4,75 @@
 
 Se les asignaron distintas tareas a los integrantes del equipo StefBot. Cada tarea tiene un grado de dificultad específico: **Low: 10**, **Medium: 20** y **High: 30**. De esta manera se puede medir el grado de contribución de cada miembro de una manera más eficaz y acertada.
 
-**Metas**
+**Metas:** **Low**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
-**Usuarios y/o clientes**
+**Usuarios y/o clientes:** **Medium**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
-**Innovación y creatividad**
+**Innovación y creatividad:** **Medium**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero
 
-**Requerimientos del usuario**
+**Requerimientos del usuario:** **HIGH**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Irving Geyler Cupul Uc.
 
-**Requerimientos del producto (funcionales y no funcionales)**
+**Requerimientos del producto (funcionales y no funcionales):** **High**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Irving Geyler Cupul Uc.
 
-**Método de prioridad**
+**Método de prioridad:** **Medium**
 
 **Responsable(s)**: Domingo Emmanuel Ciau Uc
 
-**Diagrama de casos de uso**
+**Diagrama de casos de uso:** **Medium**
 
 **Responsable(s)**: Domingo Emmanuel Ciau Uc.
 
-**Proceso de desarrollo**
+**Proceso de desarrollo:** **Medium**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
-**Descripción de las herramientas** 
+**Descripción de las herramientas:** **Medium** 
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
-**Bitácoras**
+**Bitácoras:** **Medium**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
-**Control de calidad**
+**Control de calidad:** **Medium**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
-**Revisión y corrección del repositorio**
+**Revisión y corrección del repositorio** **High**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero
 
-**Métrica de contribución individual**
+**Métrica de contribución individual:** **Medium**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
-**Documento de contribuciones**
+**Documento de contribuciones:** **Medium**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
-**Presentación del avance**
+**Presentación del avance:** **Medium**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Domingo Emmanuel Ciau Uc.
 
-**Exposición de la investigación**
+**Exposición de la investigación:** **Medium**
 
 **Responsable(s)**: Fernando Ismael Canul Caballero, Javier Arturo Rangel Abilar.
 
-**Competencias generales y específicas**
+**Competencias generales y específicas:** **Medium**
 
 **Responsable(s)**: Javier Arturo Rangel Abilar.
 
-**Artefactos**
+**Artefactos:** **Medium**
 
 **Responsable(s)**: Dommingo Emmanuel Ciau Uc.
 
