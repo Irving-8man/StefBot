@@ -26,11 +26,11 @@ Las tareas fueron organizadas y clasificadas según su nivel de dificultad, y se
 
 **Sprints**
 
-Se ha acordado realizar tres sprints que nos permitirán tener más organizado el desarrollo y gestión del proyecto. Cada sprint constará de un lapso de 2 - 4 semanas aproximadamente.
+Se acordó realizar tres sprints que nos permitirán tener más organizado el desarrollo y gestión del proyecto. Cada sprint constará de un lapso de 2 - 4 semanas aproximadamente.
 
 **Planeación del Sprint**
 
-Antes de cada Sprint, se realizará una junta con todos los miembros del equipo, definir metas que se deberán lograr en el periodo establecido y repartir tareas que se colocarán en el tablero de Trello junto con las fechas límite
+Antes de cada Sprint, se realizará una junta con todos los miembros del equipo, se definirán las metas que se quieren lograr en el periodo establecido y se repartirán las tareas que se colocarán en el calendario con las fechas límites
 
 **Recopilación de datos**
 
