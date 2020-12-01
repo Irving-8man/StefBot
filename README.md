@@ -36,6 +36,8 @@
 
 ° [Bitácoras](https://github.com/Fismael18/StefBot/blob/main/Documentos/Bit%C3%A1coras.md)
 
+° [Presentación de la primera entrega 01](https://github.com/Fismael18/StefBot/blob/main/Documentos/Proyecto%20FIS(1).pptx)
+
 # Roles (Scrum)
 ![Alt text](https://github.com/Fismael18/StefBot/blob/main/Imagenes%20StefBot/06.jpg)
 
